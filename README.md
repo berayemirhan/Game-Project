@@ -26,11 +26,15 @@
    ### Game İmage Packet 🎮
   <br />
   
-  <img  src="https://github.com/berayemirhan/ZigZag_Project/blob/main/ZigZagProject/image/İmage.png" width="600" height="300">
+  <img  src="https://github.com/berayemirhan/Game-Project/blob/main/SuperAdam/Readmeİmage/Menü.png" width="600" height="300">
   <br />
-  <img  src="https://github.com/berayemirhan/ZigZag_Project/blob/main/ZigZagProject/image/Blokİmage.png" width="600" height="300">
+  <img  src="https://github.com/berayemirhan/Game-Project/blob/main/SuperAdam/Readmeİmage/Settings.JPG" width="600" height="300">
   <br />
-  <img  src="https://github.com/berayemirhan/ZigZag_Project/blob/main/ZigZagProject/image/Menü.png" width="600" height="300">
+  <img  src="https://github.com/berayemirhan/Game-Project/blob/main/SuperAdam/Readmeİmage/Design.JPG" width="600" height="300">
+  <br />
+  <img  src="https://github.com/berayemirhan/Game-Project/blob/main/SuperAdam/Readmeİmage/Game.JPG" width="600" height="300">
+  <br />
+  <img  src="https://github.com/berayemirhan/Game-Project/blob/main/SuperAdam/Readmeİmage/game2.JPG" width="600" height="300">
   <br />
   
   
