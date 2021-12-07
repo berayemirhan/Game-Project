@@ -29,7 +29,7 @@
   <br />
   <br />
   
-   ### Game İmage Packet 🎮
+   ### Game Image Packet 🎮
   <br />
   
   <img  src="https://github.com/berayemirhan/Game-Project/blob/main/SuperAdam/Readmeİmage/Menü.png" width="600" height="300">
