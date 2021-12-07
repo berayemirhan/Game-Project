@@ -5,7 +5,8 @@
   *Intern Student*
   
   ### Explanation 
-  ### It consists of 4 parts: spring, summer, autumn and winter. After these sections are passed, you are trying to pass to other countries
+  ### It consists of 4 parts: spring, summer, autumn and winter. After these sections are passed, you are trying to pass to other countries.
+  <br />
   
   
   #### Reach out to me !
